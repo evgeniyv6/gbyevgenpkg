@@ -2,7 +2,7 @@ package slicegen
 
 import "math/rand"
 
-// GenerSlice generates slice with numbers > 1 and < 100
+// GenerSlice generates slice with numbers > 0 and < 100
 func GenerSlice(num int) []int {
 	randNum := make([]int, num)
 	for i := 0; i < num; i++ {

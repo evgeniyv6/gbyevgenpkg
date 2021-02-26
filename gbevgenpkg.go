@@ -1,6 +1,3 @@
 package gbyevgenpkg
 
-func main() {
-
-}
-
+const Version = "1.0.0"
