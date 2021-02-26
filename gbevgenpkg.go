@@ -1,0 +1,6 @@
+package gbyevgenpkg
+
+func main() {
+
+}
+
